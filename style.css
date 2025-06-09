@@ -13,6 +13,8 @@ header {
     text-align: center;
 }
 
+/* Os estilos relacionados ao timer foram removidos daqui */
+
 main {
     max-width: 800px;
     margin: 20px auto;
@@ -36,13 +38,26 @@ main {
     color: #0056b3;
 }
 
+.question-block ul { /* Estilo para as afirmativas */
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+.question-block li { /* Estilo para cada afirmativa */
+    margin-bottom: 5px;
+    font-size: 0.95em;
+    color: #555;
+}
+
 .question-block label {
     display: block;
     margin-bottom: 8px;
     cursor: pointer;
 }
 
-button {
+/* Estilo para o botão de finalizar teste (o do formulário) */
+#quizForm button[type="submit"] {
     display: block;
     width: 200px;
     padding: 10px 15px;
@@ -56,7 +71,7 @@ button {
     transition: background-color 0.3s ease;
 }
 
-button:hover {
+#quizForm button[type="submit"]:hover {
     background-color: #45a049;
 }
 
@@ -99,4 +114,29 @@ button:hover {
 
 .question-result .your-answer {
     color: #f44336;
+}
+
+#ranking {
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #eee;
+}
+
+#ranking h3 {
+    text-align: center;
+    color: #0056b3;
+}
+
+#ranking ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+#ranking li {
+    background-color: #e0f2f7;
+    margin-bottom: 5px;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 1em;
 }
