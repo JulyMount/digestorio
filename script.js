@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         q3: 'b', // Apenas as afirmativas I e II estão corretas
         q4: 'c', // Apenas as afirmativas II, III, IV e V estão corretas
         q5: 'b', // Apenas as afirmativas II, III e V estão corretas
-        q6: 'c', // Apenas as afirmativas I, II, III e V estão corretas
+        q6: 'd', // Apenas as afirmativas I, II, III e V estão corretas
         q7: 'd', // Apenas as afirmativas I, II, III e IV estão corretas
         q8: 'd', // Todas as afirmativas estão corretas
         q9: 'c', // Apenas as afirmativas I, II, III e V estão corretas
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
         q3: 'A afirmativa IV está incorreta: a digestão de lipídios inicia-se com a lipase lingual na boca e lipase gástrica no estômago, mas a maior parte ocorre no intestino delgado. A afirmativa V está incorreta: a digestão de carboidratos inicia-se na boca com a amilase salivar. As afirmativas I, II e III estão corretas. A opção "b" é a correta.',
         q4: 'A afirmativa I está incorreta: a camada mais interna é a mucosa. A opção "c" é a correta, pois as afirmativas II, III, IV e V estão corretas.',
         q5: 'A afirmativa I está incorreta: O sistema nervoso entérico (SNE) é uma divisão do sistema nervoso autônomo. A afirmativa IV está incorreta: o sistema nervoso parassimpático geralmente estimula (e não inibe) a atividade digestória. A opção "b" é a correta, pois as afirmativas II, III e V estão corretas.',
-        q6: 'A afirmativa IV está incorreta: O GIP (peptídeo inibitório gástrico) inibe a secreção de ácido gástrico e estimula a liberação de insulina. A opção "c" é a correta, pois as afirmativas I, II, III e V estão corretas.',
+        q6: 'Todas as afirmativas estão corretas.',
         q7: 'A afirmativa V está incorreta: O esfíncter esofágico INFERIOR impede o refluxo de conteúdo gástrico para o esôfago. A opção "d" é a correta, pois as afirmativas I, II, III e IV estão corretas.',
         q8: 'A afirmativa V está incorreta: A pepsina inicia a digestão de PROTEÍNAS no estômago, não de carboidratos.',
         q9: 'A afirmativa IV está incorreta: a procarboxipeptidase é ativada em carboxipeptidase pela tripsina. A opção "c" é a correta, pois as afirmativas I, II, III e V estão corretas.',
