@@ -16,15 +16,15 @@ document.addEventListener('DOMContentLoaded', () => {
         q6: 'd', // Apenas as afirmativas I, II, III e V estão corretas
         q7: 'd', // Apenas as afirmativas I, II, III e IV estão corretas
         q8: 'd', // Todas as afirmativas estão corretas
-        q9: 'c', // Apenas as afirmativas I, II, III e V estão corretas
+        q9: 'd', // Apenas as afirmativas I, II, III e V estão corretas
         q10: 'c',// Apenas as afirmativas I, II, III e IV estão corretas
         q11: 'c', // Apenas as afirmativas I, II, III e IV estão corretas
         q12: 'd', // Todas as afirmativas estão corretas
-        q13: 'c', // Apenas as afirmativas I, II, III e IV estão corretas
+        q13: 'd', // Apenas as afirmativas I, II, III e IV estão corretas
         q14: 'd', // Todas as afirmativas estão corretas
-        q15: 'c', // Apenas as afirmativas I, III, IV e V estão corretas
+        q15: 'd', // Apenas as afirmativas I, III, IV e V estão corretas
         q16: 'c', // Apenas as afirmativas I, II, III e IV estão corretas
-        q17: 'c', // Apenas as afirmativas I, II e III estão corretas
+        q17: 'b', // Apenas as afirmativas I, II e III estão corretas
         q18: 'd', // Todas as afirmativas estão corretas
         q19: 'c', // Apenas as afirmativas I, II, III e IV estão corretas
         q20: 'c'  // Apenas as afirmativas I, II, III e IV estão corretas
@@ -40,15 +40,15 @@ document.addEventListener('DOMContentLoaded', () => {
         q6: 'Todas as afirmativas estão corretas.',
         q7: 'A afirmativa V está incorreta: O esfíncter esofágico INFERIOR impede o refluxo de conteúdo gástrico para o esôfago. A opção "d" é a correta, pois as afirmativas I, II, III e IV estão corretas.',
         q8: 'A afirmativa V está incorreta: A pepsina inicia a digestão de PROTEÍNAS no estômago, não de carboidratos.',
-        q9: 'A afirmativa IV está incorreta: a procarboxipeptidase é ativada em carboxipeptidase pela tripsina. A opção "c" é a correta, pois as afirmativas I, II, III e V estão corretas.',
+        q9: 'Todas as afirmativas estão corretas.',
         q10: 'A afirmativa V está incorreta: O fígado é um órgão central no metabolismo de carboidratos, participando da gliconeogênese, glicogenólise e glicogênese. A opção "c" é a correta, pois as afirmativas I, II, III e IV estão corretas.',
         q11: 'A afirmativa V está incorreta: A absorção de nutrientes pode ocorrer por transporte ativo, difusão facilitada e difusão simples, dependendo do nutriente. A opção "c" é a correta, pois as afirmativas I, II, III e IV estão corretas.',
         q12: 'Todas as afirmativas estão corretas.',
-        q13: 'A afirmativa V está incorreta: Embora a maior parte da digestão química já tenha ocorrido, a microbiota do intestino grosso realiza fermentação de fibras, que pode ser considerada uma forma de digestão química. A opção "c" é a correta, pois as afirmativas I, II, III e IV estão corretas.',
+        q13: 'Todas as afirmativas estão corretas.',
         q14: 'Todas as afirmativas estão corretas.',
-        q15: 'A afirmativa II está incorreta: A secretina estimula a secreção de bicarbonato e água pelo pâncreas. A opção "c" é a correta, pois as afirmativas I, III, IV e V estão corretas. (Nota: O gabarito original parece ter um erro aqui, se a II está incorreta, a resposta "c" que inclui I, III, IV e V seria mais plausível. Assumi que a intenção era a II correta para a "d", mas com base no gabarito, estou ajustando a explicação para a "c" que está no gabarito, presumindo que o erro esteja na minha interpretação original ou no PDF.) **Correção: A afirmativa II ESTÁ correta, a secretina estimula bicarbonato. O gabarito indica "c) Apenas as afirmativas I, III, IV e V estão corretas". Isso implica que a afirmativa II está incorreta, o que é contraditório à fisiologia. Manterei o gabarito fornecido, mas com a ressalva. Parece haver um erro no gabarito para esta questão. A afirmativa II "A secretina estimula a secreção de bicarbonato pelo pâncreas" é de fato CORRETA. Se a resposta é "c) Apenas as afirmativas I, III, IV e V estão corretas", isso significa que a II estaria incorreta. Vou manter a resposta do gabarito (c) e o comentário que reflete as afirmativas listadas na resposta "c", mas notando a potencial inconsistência.**',
+        q15: 'Todas as afirmativas estão corretas.',
         q16: 'A afirmativa V está incorreta: Peptídeos pequenos (di e tripeptídeos) podem, sim, ser absorvidos e, posteriormente, hidrolisados em aminoácidos dentro das células. A opção "c" é a correta, pois as afirmativas I, II, III e IV estão corretas.',
-        q17: 'A afirmativa IV está incorreta: Os quilomícrons são liberados na linfa (vasos linfáticos), não diretamente na corrente sanguínea. A opção "c" é a correta, pois as afirmativas I, II e III estão corretas. (Nota: O gabarito aponta para a "c" enquanto o PDF de questões tem "a,b,c,d,e" nas alternativas, e o gabarito PDF tem 17. c) Apenas as afirmativas I, II e III estão corretas. Isso está em conformidade).',
+        q17: 'Apenas as afirmativas II e IV estão corretas.',
         q18: 'A afirmativa V está incorreta: A ativação inicial do tripsinogênio em tripsina é pela enteroquinase. A tripsina então ativa as outras pró-enzimas. Portanto, nem todas dependem *diretamente* da enteroquinase, mas indiretamente sim, através da tripsina. No entanto, o gabarito indica "d) Todas as afirmativas estão corretas". Vamos seguir o gabarito. Se todas são corretas, V também seria. Revisando V: "A ativação de todas as pró-enzimas pancreáticas depende diretamente da enteroquinase." Isso é fisiologicamente impreciso, pois a tripsina (ativada pela enteroquinase) ativa as outras. A afirmação "diretamente" torna V falsa. **Vou seguir o gabarito fornecido (d), mas com a ressalva sobre a afirmativa V, que parece ter uma imprecisão.**',
         q19: 'A afirmativa V está incorreta, pois a motilidade do intestino grosso é influenciada por reflexos mais amplos (como os mencionados) e também por fatores hormonais e neurais intrínsecos. A opção "c" é a correta, pois as afirmativas I, II, III e IV estão corretas.',
         q20: 'A afirmativa V está incorreta, pois a defecação possui componentes voluntários (controle do esfíncter anal externo e uso de músculos abdominais) além dos reflexos involuntários. A opção "c" é a correta, pois as afirmativas I, II, III e IV estão corretas.'
